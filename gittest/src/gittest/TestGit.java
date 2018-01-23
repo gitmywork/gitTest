@@ -1,7 +1,9 @@
 package gittest;
 
-public class TestGit {
+public class TestI {
 	public static void main(String[] args) {
 		System.out.println("first---");
+		System.out.println("second");
 	}
+
 }
